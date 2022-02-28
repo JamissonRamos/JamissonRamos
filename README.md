@@ -1,6 +1,6 @@
 
 
-# Olá! Eu sou o <strong style="color: green;">Jamisson</strong> 🤙
+# Olá! Eu sou o <strong style="color: green;">amisson</strong> 🤙
 
 ### Minhas redes sociais 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
